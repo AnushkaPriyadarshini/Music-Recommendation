@@ -1,1 +1,1 @@
-# Music-Recommendation
+Welcome to the Music Recommendation System! This application is designed to enhance your music listening experience by detecting your facial expressions and recognizing your favorite singers. Based on this information, it suggests music that suits your current mood and preferences. It's a personalized and interactive way to enhance your music listening experience.
